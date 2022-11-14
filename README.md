@@ -1,7 +1,7 @@
-# TCS-Remote Internship
+# TCS-RIO
 
 # Project Name:
-  #### Develop a docker image using Ethereum  blockchain components and test using smart contract for Simple Bank System
+  #### Develop a docker image using Ethereum  blockchain components and test using smart contract for Bank System
    
 # Prerequisites
  > use base OS as ubuntu and install docker and docker-Compose in that.
